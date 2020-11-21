@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NumberFormat</string>
+    <string name="numero">Numero</string>
+    <string name="cifre">Cifre</string>
+    <string name="execute">Execute</string>
+    <string name="risultato">Risultato</string>
+    <string name="uno">1</string>
+    <string name="cinque">5</string>
+</resources>
